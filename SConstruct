@@ -5,7 +5,7 @@ import sys
 from methods import print_error
 
 
-libname = "EXTENSION-NAME"
+libname = "tutGame"
 projectdir = "project"
 
 localEnv = Environment(tools=["default"], PLATFORM="")
